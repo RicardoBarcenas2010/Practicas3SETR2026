@@ -1,3 +1,8 @@
+
+/**
+ * @brief   Implementación de la estructura global del sistema y función de init
+ * @author  Ricardo Bárcenas, Daniela Valle
+ */
 #include "system_state.h"
 #include "app_config.h"
 

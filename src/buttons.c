@@ -1,3 +1,9 @@
+
+/**
+ * @brief   Implementación de la tarea de botones con debounce
+ * @author  Ricardo Bárcenas, Daniela Valle
+ */
+
 #include "buttons.h"
 #include "app_config.h"
 #include "system_state.h"

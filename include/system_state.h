@@ -1,3 +1,8 @@
+/**
+ * @brief   Enumeraciones, estructura global del sistema y función de init
+ * @author  Ricardo Bárcenas, Daniela Valle
+ */
+
 #ifndef SYSTEM_STATE_H
 #define SYSTEM_STATE_H
 

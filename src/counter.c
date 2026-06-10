@@ -1,3 +1,9 @@
+
+/**
+ * @brief   Implementación de la tarea del contador BCD
+ * @author  Ricardo Bárcenas, Daniela Valle
+ */
+
 #include "counter.h"
 #include "system_state.h"
 

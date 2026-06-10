@@ -1,3 +1,8 @@
+/**
+ * @brief   Tipos, estructuras y prototipo para tareas de botones con debounce
+ * @author  Ricardo Bárcenas, Daniela Valle
+ */
+
 #ifndef BUTTONS_H
 #define BUTTONS_H
 

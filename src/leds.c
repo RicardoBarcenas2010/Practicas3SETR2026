@@ -1,3 +1,9 @@
+
+/**
+ * @brief   Implementación de la tarea de control de LEDs
+ * @author  Ricardo Bárcenas, Daniela Valle
+ */
+
 #include "leds.h"
 #include "system_state.h"
 

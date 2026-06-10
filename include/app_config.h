@@ -1,3 +1,8 @@
+/**
+ * @brief   Configuración de hardware: pines de LEDs y botones, tiempos
+ * @author  Ricardo Bárcenas, Daniela Valle
+ */
+
 #ifndef APP_CONFIG_H
 #define APP_CONFIG_H
 

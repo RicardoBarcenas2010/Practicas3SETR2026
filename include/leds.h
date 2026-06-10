@@ -1,3 +1,9 @@
+/**
+ * @brief   Estructura y prototipo de la tarea de control de LEDs
+ * @author  Ricardo Bárcenas, Daniela Valle
+ */
+
+ 
 #ifndef LEDS_H
 #define LEDS_H
 

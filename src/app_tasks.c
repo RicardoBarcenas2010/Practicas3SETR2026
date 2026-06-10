@@ -1,3 +1,8 @@
+/**
+ * @brief   Implementación de la tarea manager y función de creación de tareas
+ * @author  Ricardo Bárcenas, Daniela Valle
+ */
+
 #include "app_tasks.h"
 #include "app_config.h"
 #include "system_state.h"
