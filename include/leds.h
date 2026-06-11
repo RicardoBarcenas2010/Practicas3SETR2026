@@ -13,8 +13,9 @@ typedef struct
 {
     uint8_t gpio;
     uint8_t bit_position;
-    const char *name;
+    uint8_t reserved[2]; // Relleno para alinear a 4 bytes
 
+    
 } LedTaskParams_t;
 
 void led_task(void *pvParameters);
